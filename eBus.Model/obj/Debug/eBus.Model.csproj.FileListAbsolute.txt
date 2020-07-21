@@ -1,0 +1,10 @@
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\bin\Debug\eBus.Model.dll
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\bin\Debug\eBus.Model.pdb
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\obj\Debug\eBus.Model.csprojAssemblyReference.cache
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\obj\Debug\eBus.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\obj\Debug\eBus.Model.csproj.CopyComplete
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\obj\Debug\eBus.Model.dll
+C:\Users\Tarik\source\repos\eBusAng\eBus.Model\obj\Debug\eBus.Model.pdb
